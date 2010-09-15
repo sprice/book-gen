@@ -1,7 +1,7 @@
 
 # Book Generator
 
- This book generator is built using the work of TJ Holowaychuk and his book ([Mastering Node](http://github.com/visionmedia/masteringnode).
+ This book generator is built using the work of TJ Holowaychuk and his book [Mastering Node](http://github.com/visionmedia/masteringnode).
 
 ## Formats
 
